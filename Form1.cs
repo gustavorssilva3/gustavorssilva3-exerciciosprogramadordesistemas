@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace maioroumenorquedez
 {
-    public partial class Form1 : Form
+    public partial class frmMenorouMaior : Form
     {
-        public Form1()
+        public frmMenorouMaior()
         {
             InitializeComponent();
         }

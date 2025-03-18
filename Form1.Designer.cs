@@ -1,7 +1,7 @@
 ﻿
 namespace maioroumenorquedez
 {
-    partial class Form1
+    partial class frmMenorouMaior
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -54,15 +54,15 @@ namespace maioroumenorquedez
             this.btnVerificar.UseVisualStyleBackColor = false;
             this.btnVerificar.Click += new System.EventHandler(this.btnVerificar_Click);
             // 
-            // Form1
+            // frmMenorouMaior
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(658, 398);
             this.Controls.Add(this.btnVerificar);
             this.Controls.Add(this.txtNumero);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "frmMenorouMaior";
+            this.Text = "Maior ou Menor";
             this.ResumeLayout(false);
             this.PerformLayout();
 
